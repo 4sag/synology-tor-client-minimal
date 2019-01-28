@@ -21,5 +21,5 @@ Tor : version 0.2.8.12
 5. Click "Next" and adjust ressource limitation if you want. Click "Next" then click "Apply"
 6. Launch the container.
 7. To use, configure your browser/client to use a SOCKS server with the IP of the NAS and server port: 9150. (Use TorBrowser and change connection settings in preferences panel)
-8. Your Tor client is running.
+8. Your Tor client is running
 
