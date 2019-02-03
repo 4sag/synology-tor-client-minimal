@@ -30,3 +30,5 @@ Tor : version 0.3.3.7
 [badge_image_size]:https://img.shields.io/microbadger/image-size/4sag/synology-tor-client-minimal.svg?style=flat-square&maxAge=30
 [badge_image_layers]:https://img.shields.io/microbadger/layers/4sag/synology-tor-client-minimal.svg?style=flat-square&maxAge=30
 [badge_pulls]:https://img.shields.io/docker/pulls/4sag/synology-tor-client-minimal.svg?style=flat-square&maxAge=30
+[link_build]:https://hub.docker.com/r/4sag/synology-tor-client-minimal/builds/
+[link_pulls]:https://hub.docker.com/r/4sag/synology-tor-client-minimal/
