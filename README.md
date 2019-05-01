@@ -13,7 +13,7 @@ https://hub.docker.com/r/4sag/synology-tor-client-minimal/
 
 OS : Alpine Linux 3.9 - [http://alpinelinux.org](http://alpinelinux.org) - Alpine Linux is a security-oriented, lightweight Linux distribution based on musl libc and busybox.
 
-Tor : version 0.3.3.7
+Tor : version 0.3.3.7 
 
 ### Install
 
