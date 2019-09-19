@@ -5,15 +5,15 @@
 
 # synology-tor-client-minimal
 
-Tor client (Socks proxy ) version 0.3.4.11-r0 - 21MB image - Tor client image qualified for Docker on Synology NAS. This Docker image launch a Tor client with a Socks proxy on port 9150 (SocksPort 0.0.0.0:9150). The proxy is opened for hosts on the local network with 172.17.0.X IP (SocksPolicy accept 172.17.0.0/16).
+Tor client (Socks proxy ) version 0.3.5.8-r0 - 23MB image - Tor client image qualified for Docker on Synology NAS. This Docker image launch a Tor client with a Socks proxy on port 9150 (SocksPort 0.0.0.0:9150). The proxy is opened for hosts on the local network with 172.17.0.X IP (SocksPolicy accept 172.17.0.0/16).
 
 https://hub.docker.com/r/4sag/synology-tor-client-minimal/
 
 ### Versions
 
-OS : Alpine Linux 3.9 - [http://alpinelinux.org](http://alpinelinux.org) - Alpine Linux is a security-oriented, lightweight Linux distribution based on musl libc and busybox.
+OS : Alpine Linux 3.10 - [http://alpinelinux.org](http://alpinelinux.org) - Alpine Linux is a security-oriented, lightweight Linux distribution based on musl libc and busybox.
 
-Tor : version 0.3.4.11-r0
+Tor : version 0.3.5.8-r0
 
 ### Install
 
